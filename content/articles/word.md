@@ -9,7 +9,7 @@ author:
   bio: Developer
 ---
 
-# Blockchain development tutorials.
+# Blockchain development tutorials. 
 
 DAPP UNIVERSITY.
 
